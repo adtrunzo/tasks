@@ -22,8 +22,8 @@ function App(): JSX.Element {
                         <li>A third item</li>
                     </ol>
                     <img
-                        src="../assets/images/pet-ada.jpg"
-                        alt="A picture of my dog Ada"
+                        src="http://thewowstyle.com/wp-content/uploads/2015/01/nature-images..jpg"
+                        alt="A picture of nature"
                     />
                 </div>
                 <p>
