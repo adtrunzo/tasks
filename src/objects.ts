@@ -1,5 +1,3 @@
-import Q from "q";
-import { stringify } from "querystring";
 import { Question, QuestionType } from "./interfaces/question";
 
 /**
