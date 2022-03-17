@@ -1,6 +1,5 @@
 import React from "react";
 import "./App.css";
-
 /** 
 import { Button, Col, Container, Row } from "react-bootstrap";
 
@@ -46,7 +45,6 @@ function App(): JSX.Element {
             </div>
         </>
         */
-
 import { ChangeType } from "./components/ChangeType";
 import { RevealAnswer } from "./components/RevealAnswer";
 import { StartAttempt } from "./components/StartAttempt";
@@ -65,11 +63,11 @@ function App(): JSX.Element {
             <hr />
             <RevealAnswer></RevealAnswer>
             <hr />
+            <ChangeType></ChangeType>
+            <hr />
             <StartAttempt></StartAttempt>
             <hr />
             <TwoDice></TwoDice>
-            <hr />
-            <ChangeType></ChangeType>
             <hr />
             <CycleHoliday></CycleHoliday>
         </div>
