@@ -62,7 +62,6 @@ function App(): JSX.Element {
             <header className="App-header">
                 UD CISC275 with React Hooks and TypeScript
             </header>
-            <hr></hr>
             {/* <DoubleHalf></DoubleHalf> */}
             <hr></hr>
             <ChooseTeam></ChooseTeam>
@@ -70,6 +69,7 @@ function App(): JSX.Element {
             <ColoredBox></ColoredBox>
             <hr></hr>
             <ShoveBox></ShoveBox>
+            <hr></hr>
             <hr></hr>
             <Counter></Counter>
             <hr />
